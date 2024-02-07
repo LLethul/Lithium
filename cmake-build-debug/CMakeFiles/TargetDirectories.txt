@@ -1,0 +1,3 @@
+/Users/nunyabidness/CLionProjects/Lithium/cmake-build-debug/CMakeFiles/Lithium.dir
+/Users/nunyabidness/CLionProjects/Lithium/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nunyabidness/CLionProjects/Lithium/cmake-build-debug/CMakeFiles/rebuild_cache.dir

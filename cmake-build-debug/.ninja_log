@@ -1,0 +1,19 @@
+# ninja log v5
+1	95	1707230408273558177	build.ninja	46793f058cd46328
+3	1041	1707140857436609525	CMakeFiles/Lithium.dir/include/Lexer.cpp.o	ca5db4a9045d6e30
+4	66	1707229692028943528	CMakeFiles/Lithium.dir/src/Parser.cpp.o	4da70bb0bdb08ebd
+4	1237	1707229693194547374	CMakeFiles/Lithium.dir/src/main.cpp.o	925229b1a0401c40
+5	1142	1707228634957548242	CMakeFiles/Lithium.dir/src/Token.cpp.o	bc78468aeb0b4e2d
+4	1149	1707228634967171324	CMakeFiles/Lithium.dir/src/Lexer.cpp.o	8b4f0a56ac15a5cd
+4	1400	1707145875789253773	CMakeFiles/Lithium.dir/src/Stack.cpp.o	c6dee0be91ebe873
+1239	1321	1707229693283527065	Lithium	932f1d1000debaa9
+5	1264	1707228361298892830	CMakeFiles/Lithium.dir/src/Error.cpp.o	da45fa2d7aae6e66
+5	1239	1707229693196692050	CMakeFiles/Lithium.dir/src/AstNode.cpp.o	3b70bd64f61c5d54
+6	1924	1707230478262154997	CMakeFiles/Lithium.dir/src/Stack.cpp.o	4ade8f8194274245
+5	1946	1707230478285456551	CMakeFiles/Lithium.dir/src/AstNode.cpp.o	c9b726570a1693de
+6	2022	1707230478361329737	CMakeFiles/Lithium.dir/src/Lexer.cpp.o	b8380045df93b75f
+7	2023	1707230478361691274	CMakeFiles/Lithium.dir/src/Token.cpp.o	14bb6f982ae4349d
+6	2102	1707230478444151197	CMakeFiles/Lithium.dir/src/Error.cpp.o	9c0312e5ce379d80
+1924	3226	1707230479570559066	CMakeFiles/Lithium.dir/src/main.cpp.o	93268104e44ed9ed
+5	1492	1707230497973851195	CMakeFiles/Lithium.dir/src/Parser.cpp.o	b3c3f3757d60e0c5
+1492	1574	1707230498060555088	Lithium	932f1d1000debaa9
